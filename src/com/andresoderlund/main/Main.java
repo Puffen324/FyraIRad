@@ -11,6 +11,9 @@ public class Main {
 
 		System.out.println("Hejhej");
 		System.out.println("Hejhej");
+		
+		System.out.println("Testar ändra lite!");
+		
 		boolean winner = false;
 		int turn = 0;
 		int inputFromUser = 0;
