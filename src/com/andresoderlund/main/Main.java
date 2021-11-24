@@ -9,6 +9,8 @@ public class Main {
 
 	public static void main(String[] args) {
 
+		System.out.println("Hejhej");
+		System.out.println("Hejhej");
 		boolean winner = false;
 		int turn = 0;
 		int inputFromUser = 0;
